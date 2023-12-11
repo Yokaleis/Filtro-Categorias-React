@@ -5,7 +5,7 @@ export function Home() {
     return (
         <>
         <Menu/>
-        <h1>Home</h1>
+        <h1 className="text-7xl mb-20 font-bold">Home</h1>
         <Footer/>
         </>
     )

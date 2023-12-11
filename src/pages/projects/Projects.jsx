@@ -6,7 +6,7 @@ export function Projects() {
     return (
         <>
         <Menu/>
-        <h1>Projects</h1>
+        <h1 className="text-7xl mb-20 font-bold">Projects</h1>
         <Footer/>
         </>
     )
